@@ -1,7 +1,7 @@
 // Network settings
 // --
-const char* ssid = "MGBot";
-const char* password = "Terminator812";
+const char* ssid = "wifi";
+const char* password = "paswword";
 // --
 
 // Time settings
@@ -11,10 +11,10 @@ const int TIMEZONE=3;
 // narmon
 
 #define SRV   "185.245.187.136"
-#define MAC  "80:7d:3a:c7:8e:00"
-#define PASS  "qhtK6ka1"
-#define USERNAME  "makblc4444"
-#define TOPIC  "login/BME280/"
+#define MAC  "macadress
+#define PASS  "pass"
+#define USERNAME  "username"
+#define TOPIC  "login/devicename/"
 
 //--
 

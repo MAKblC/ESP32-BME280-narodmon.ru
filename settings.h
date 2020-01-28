@@ -1,7 +1,7 @@
 // Network settings
 // --
 const char* ssid = "wifi";
-const char* password = "paswword";
+const char* password = "password";
 // --
 
 // Time settings
@@ -11,7 +11,7 @@ const int TIMEZONE=3;
 // narmon
 
 #define SRV   "185.245.187.136"
-#define MAC  "macadress
+#define MAC  "macadress"
 #define PASS  "pass"
 #define USERNAME  "username"
 #define TOPIC  "login/devicename/"
